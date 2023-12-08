@@ -11,4 +11,4 @@ Projeto desenvolvido na disciplina de Laboratório de Estrutura de Dados (LEDA).
 
   2. Em seguida entre na pasta "src" e abra o arquivo "Main.java" e siga a ordem que está especificada nele.
   Antes de descomentar as linhas dos algoritmos de ordenação não se esqueça de gerar os arquivos: "password_classifier.csv", "password_formated_data.csv", "passwords_classifier.csv" e os arquivos auxiliares. Para gerar esses arquivos descomente as linhas que estão no inicio do arquivo "Main.java".
-  Todos os arquivos de saída seram gerados na pasta "Arquivos".       corrija esse texto
+  Todos os arquivos de saída seram gerados na pasta "Arquivos".
